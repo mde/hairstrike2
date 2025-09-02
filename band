@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Hairstrike: Band</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="hairstrike-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="/" class="nav-brand">
+                          <span class="hs-logo">hairstrike</span>
+                        </a>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="band">Band</a></li>
+                                    <li><a href="photos">Photos</a></li>
+                                    <li><a href="listen">Listen</a></li>
+                                    <li><a href="contact">Contact</a></li>
+                                    <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                                </ul>
+
+                                <a class="fa fa-facebook-square fa-icon-first" href="https://www.facebook.com/hairstrikerocks"
+                                    target="_blank" ></a>
+                                <a class="fa fa-twitter" href="https://twitter.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-instagram" href="https://www.instagram.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-spotify" href="https://open.spotify.com/artist/5FSdHoWTabXJ3Ax4UPcbhC"
+                                    target="_blank" ></a>
+                                <a class="fa fa-youtube" href="https://www.youtube.com/results?search_query=hairstrike"
+                                    target="_blank" ></a>
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/hs_bg-03.png);">
+        <div class="bradcumbContent">
+            <p>Let’s introduce</p>
+            <h2>The Band</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Band Intro Area Start ##### -->
+    <section class="band-intro-area section-padding-100">
+        <div class="container">
+
+            <!-- Single Band Intro Item -->
+            <div class="row" style="margin-bottom: 56px;">
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="band-intro-thumb">
+                        <img src="img/bg-img/hs_jake_band.png" loading="lazy" alt="" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-7 col-lg-8">
+                    <div>
+                        <!-- Section Heading -->
+                        <div class="section-heading text-left mb-30">
+                            <p>Lead vocal, rhythm guitars</p>
+                            <h2>Jake Viceroy</h2>
+                        </div>
+                        <p>
+                           Jake Viceroy grew up on a pig farm in Laredo, Texas, where hog-calling helped him to perfect the traditional high-pitch metal shriek. He feasted on a steady diet of metal all through school, studying in detail the genius of performers like Ronnie James Dio, Paul Stanley, Klaus Meine, Rob Halford, and of course Jani Lane, and eventually deciding to devote his life to the pursuit of metal awesome, for its purity as an art-form, and "for the chicks."
+                        </p>
+                        <p>
+                           He has never had it officially measured, but has a vocal-range of "about 18 octaves." Whether it's the raspy/creepy Stephen Pearcy; the over-dramatic Dokken; the super-shrieky Sebastian Bach, or the soaring, OMFG-pretty Steve Perry; Jake has studied it, and mastered it all.
+                        </p>
+                        <p>
+                           Jake picked up the guitar in college to increase his skill in metal bad-assery, and mostly sticks to playing his late-80s Les Paul, "because it's a f*cking Les Paul."
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Band Intro Item -->
+            <div class="row" style="margin-bottom: 56px;">
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="band-intro-thumb">
+                        <img src="img/bg-img/hs_cole_band.png" loading="lazy" alt="" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-7 col-lg-8">
+                    <div>
+                        <!-- Section Heading -->
+                        <div class="section-heading text-left mb-30">
+                            <p>Bass, backup vocals</p>
+                            <h2>Cole Stone</h2>
+                        </div>
+                        <p>
+                         Cole Stone is a stone-cold badass. He hails from Newport News, Virginia, and built his first bass from two-by-fours and chicken-wire when he was seven years old. Cole's strange, preternatural gift for harmony-singing emerged shortly after that, when he accidentally broke all the windows in the house while part-singing in the ultrasonic range with the family dog.
+                         </p>
+                        <p>
+                         He heard his first metal track on local FM radio, and after seeing the leering, sneering faces on MTV's "Headbanger's Ball," he realized it was his destiny to be a metal star as well.
+                          </p>
+                        <p>
+                         Cole is the strong, silent type — he wears his stoicism on his sleeve like some men wear their feelings. Feelings are not important — f*cking metal is what's important. He may appear to be standing like heavy stone, but can bet your ass that Cole is gathering his 'ki' to bring the bass and vocal attack that flattens the crowd.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Band Intro Item -->
+            <div class="row" style="margin-bottom: 56px;">
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="band-intro-thumb">
+                        <img src="img/bg-img/hs_kitt_band.png" loading="lazy" alt="" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-7 col-lg-8">
+                    <div>
+                        <!-- Section Heading -->
+                        <div class="section-heading text-left mb-30">
+                            <p>Drums, backup vocals</p>
+                            <h2>Kitt De La Rosa</h2>
+                        </div>
+                        <p>
+                         Kitt De la Rosa is a rocket ship to rock-'n'-roll love waiting to lift off. Who needs a click-track when you have a rocket-ship ride to the stars?? Kitt first began drumming as he was growing up in a small town south of San Diego, California.
+                        </p>
+                        <p>
+                         His musical tastes expanded as he grew older, and Kitt explored everything from progressive jazz to German polka, but the bombastic styles of drummers like John Bohnam and Carmine Appice constantly pulled him back to metal, learning heavier and heavier licks every day.
+                        </p>
+                        <p>
+                         To this day, no one is completely sure whether the spontaneous liftoff of his family home into outer space was caused by his drumming, but he was playing at the time, and only just barely managed to leap free, clinging to his prized Zildjian 22" Extra-Extra-Heavy ride.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Band Intro Item -->
+            <div class="row" style="margin-bottom: 56px;">
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="band-intro-thumb">
+                        <img src="img/bg-img/hs_ttg_band.png" loading="lazy" alt="" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-7 col-lg-8">
+                    <div>
+                        <!-- Section Heading -->
+                        <div class="section-heading text-left mb-30">
+                            <p>Lead guitars</p>
+                            <h2>T.T.G. Savage</h2>
+                        </div>
+                        <p>
+                           T.T.G.'s transformation into a monster of rock began in his teens, growing up in Sweden. When all the other kids were busy making meatballs and putting together their Ikea furniture, T.T.G. was busy crafting incredibly tasty licks, and obliterating the family furnishings with the sheer volume and intensity of his riffs.
+                        </p>
+                        <p>
+                           When T.T.G. is on stage, keep a close eye out for when he goes full beast mode. When his transformation is complete, he becomes a rock and roll berserker with the soul of Grendel and the hands of Yngwie J. Malmsteen — a metal shred-demon with a kickass guitar tone made of dragon's blood and molten lava.
+                        </p>
+                        <p>
+                           Fun fact, in high school T.T.G. replaced all the ABBA in the local record store with AC/DC, earning him the undying gratitude of all his school mates.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- ##### Band Intro Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="band">Band</a></li>
+                          <li><a href="photos">Photos</a></li>
+                          <li><a href="listen">Listen</a></li>
+                          <li><a href="contact">Contact</a></li>
+                          <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
+

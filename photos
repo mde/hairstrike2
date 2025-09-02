@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Hairstrike: Photos</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="hairstrike-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="/" class="nav-brand">
+                          <span class="hs-logo">hairstrike</span>
+                        </a>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="band">Band</a></li>
+                                    <li><a href="photos">Photos</a></li>
+                                    <li><a href="listen">Listen</a></li>
+                                    <li><a href="contact">Contact</a></li>
+                                    <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                                </ul>
+
+                                <a class="fa fa-facebook-square fa-icon-first" href="https://www.facebook.com/hairstrikerocks"
+                                    target="_blank" ></a>
+                                <a class="fa fa-twitter" href="https://twitter.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-instagram" href="https://www.instagram.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-spotify" href="https://open.spotify.com/artist/5FSdHoWTabXJ3Ax4UPcbhC"
+                                    target="_blank" ></a>
+                                <a class="fa fa-youtube" href="https://www.youtube.com/results?search_query=hairstrike"
+                                    target="_blank" ></a>
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/hs_bg-02.png);">
+        <div class="bradcumbContent">
+            <p>Lights, camera …</p>
+            <h2>Photos</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Image Catagory Area Start ##### -->
+    <section class="album-catagory section-padding-100-0">
+        <div class="container">
+
+            <div class="row hairstrike-photos">
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t c p">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_jake-02.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_jake-02_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item s e q">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_cole-01.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_cole-01_thumb.jpg" loading="lazy" alt="" />
+                      </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item w f r">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-03.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-03_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item w f r">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_kitt-01.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_kitt-01_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_ttg-03.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_ttg-03_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-01.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-01_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-01.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-01_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-02.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-02_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-02.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-02_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-07.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-07_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_misc-03.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_misc-03_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_kitt-03.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_kitt-03_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_cole-03.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_cole-03_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-04.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-04_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_misc-04.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_misc-04_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-04.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-04_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-05.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-05_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-03.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-03_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_misc-02.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_misc-02_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-06.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-06_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_misc-01.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_misc-01_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_cole-04.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_cole-04_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_pose-08.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_pose-08_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-05.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-05_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_jake-04.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_jake-04_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-06.png" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-06_thumb.png" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-07.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-07_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ##### Image Catagory Area End ##### -->
+
+    <!-- ##### Bumper Section Start ##### -->
+    <section class="bumper" style="height: 120px;">
+    </section>
+    <!-- ##### Bumper Section End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="band">Band</a></li>
+                          <li><a href="photos">Photos</a></li>
+                          <li><a href="listen">Listen</a></li>
+                          <li><a href="contact">Contact</a></li>
+                          <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
+

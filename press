@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Hairstrike: Press</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="hairstrike-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="/" class="nav-brand-solo">
+                          <span class="hs-logo-solo">hairstrike</span>
+                        </a>
+
+
+                        </div>
+
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/hs_bg-06.jpg);">
+        <div class="bradcumbContent">
+            <p>Book us</p>
+            <h2>Press</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Band Summary Area Start ##### -->
+    <section class="band-blurb-area section-padding-100-0">
+        <div class="container">
+            <div style="overflow: auto;">
+            <img src="/img/bg-img/hs_band_perf-01_thumb.jpg" alt="" style="width: 680px; float: left; margin: 0 36px 36px 0;">
+            <div>
+              <p>
+                <strong>Hairstrike</strong>, the Bay Area's premiere 80's hair metal tribute band, puts on an unforgettable performance of totally radical 80's party music. In short, it's "nothin' but a good time" music.
+              </p>
+              <p>
+                Hairstrike plays all the big radio hits from the top 80's hair metal bands, such as <strong>Bon Jovi</strong>, <strong>Def Leppard</strong>, <strong>Poison</strong>, <strong>Van Halen</strong>, <strong>Ratt</strong>, <strong>Motley Crue</strong>, <strong>GnR</strong>, and <strong>Whitesnake</strong>.
+              </p>
+              <p>
+                Their infectious, high-energy vibe will have everyone dancing by night's end. Hairstrike has been crushing it for over 10+ years playing small to mid-size venues throughout the SF Bay Area. They are also available for private/corporate parties.
+              </p>
+            </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ##### Contact Area Start ##### -->
+    <section class="contact-area">
+        <div class="container">
+            <div>
+                <div class="" style="margin: auto; max-width: 90%;">
+                    <div class="contact-content">
+                        <!-- Title -->
+                        <div class="contact-title mb-50">
+                            <h5>Contact Info</h5>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-map" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p>San Francisco Bay Area, California</p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-send-o" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="mailto:info@hairstrike.com">info@hairstrike.com</a></p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-facebook-square" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="https://www.facebook.com/hairstrikerocks">https://www.facebook.com/hairstrikerocks</a></p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-instagram" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="https://www.instagram.com/hairstrikeband">https://www.instagram.com/hairstrikeband</a></p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ##### Contact Area End ##### -->
+
+    <!-- ##### Latest Videos Area Start ##### -->
+    <section class="hairstrike-video-area has-fluid section-padding-70-100">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading style-2">
+                        <p>Check out the latest</p>
+                        <h2>Hairstrike Videos</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" style="justify-content: center; margin-top: -36px;">
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="600ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/hs_thumb-06.png" loading="lazy" alt="" />
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="https://www.youtube.com/watch?v=2d6zyX5UFHU" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="https://www.youtube.com/watch?v=2d6zyX5UFHU">
+                                <h5>Rebel Yell</h5>
+                            </a>
+                            <p>Live at Retro Junkie club, Dec. 2021</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="100ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/hs_thumb-02.png" loading="lazy" alt="" />
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="https://www.youtube.com/watch?v=8Nfl-4b-N7I" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="https://www.youtube.com/watch?v=8Nfl-4b-N7I">
+                                <h5>Rio</h5>
+                            </a>
+                            <p>England's best synthpop from Duran Duran, transformed into a metal anthem</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="500ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/hs_thumb-07.png" loading="lazy" alt="" />
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="https://www.youtube.com/watch?v=qwVDzype8lo" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="https://www.youtube.com/watch?v=qwVDzype8lo">
+                                <h5>Sweet Child O' Mine</h5>
+                            </a>
+                            <p>Live at the San Mateo County Fair, 2014</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Album Area -->
+                <div class="col-12 col-sm-6 col-md-4 col-lg-2">
+                    <div class="single-album-area wow fadeInUp" data-wow-delay="500ms">
+                        <div class="album-thumb">
+                            <img src="img/bg-img/hs_thumb-11.png" loading="lazy" alt="" />
+                            <!-- Play Icon -->
+                            <div class="play-icon">
+                                <a href="https://www.youtube.com/watch?v=d4JW0AXnc4g" class="video--play--btn"><span class="icon-play-button"></span></a>
+                            </div>
+                        </div>
+                        <div class="album-info">
+                            <a href="https://www.youtube.com/watch?v=d4JW0AXnc4g">
+                                <h5>Livin' On A Prayer</h5>
+                            </a>
+                            <p>Live at Charley's, 2016</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- ##### Latest Videos Area End ##### -->
+
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="band">Band</a></li>
+                          <li><a href="photos">Photos</a></li>
+                          <li><a href="listen">Listen</a></li>
+                          <li><a href="contact">Contact</a></li>
+                          <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
+

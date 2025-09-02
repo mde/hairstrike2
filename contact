@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Hairstrike: Contact</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="hairstrike-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="/" class="nav-brand">
+                          <span class="hs-logo">hairstrike</span>
+                        </a>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="band">Band</a></li>
+                                    <li><a href="photos">Photos</a></li>
+                                    <li><a href="listen">Listen</a></li>
+                                    <li><a href="contact">Contact</a></li>
+                                    <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                                </ul>
+
+                                <a class="fa fa-facebook-square fa-icon-first" href="https://www.facebook.com/hairstrikerocks"
+                                    target="_blank" ></a>
+                                <a class="fa fa-twitter" href="https://twitter.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-instagram" href="https://www.instagram.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-spotify" href="https://open.spotify.com/artist/5FSdHoWTabXJ3Ax4UPcbhC"
+                                    target="_blank" ></a>
+                                <a class="fa fa-youtube" href="https://www.youtube.com/results?search_query=hairstrike"
+                                    target="_blank" ></a>
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/hs_bg-04.png);">
+        <div class="bradcumbContent">
+            <p>Get in touch</p>
+            <h2>Contact</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Contact Area Start ##### -->
+    <section class="contact-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+
+                <div class="" style="margin: auto; max-width: 90%;">
+                    <div class="contact-content mb-100">
+                        <!-- Title -->
+                        <div class="contact-title mb-50">
+                            <h5>Contact Info</h5>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-map" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p>San Francisco Bay Area, California</p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-send-o" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="mailto:info@hairstrike.com">info@hairstrike.com</a></p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-facebook-square" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="https://www.facebook.com/hairstrikerocks" target="_blank">https://www.facebook.com/hairstrikerocks</a></p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-twitter" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="https://twitter.com/hairstrikeband" target="_blank">https://twitter.com/hairstrikeband</a></p>
+                        </div>
+
+                        <!-- Single Contact Info -->
+                        <div class="single-contact-info d-flex align-items-center">
+                            <i class="fa fa-instagram" aria-hidden="true" style="display: inline-block; font-size: 36px; margin-right: 16px;">&nbsp;</i>
+                            <p><a href="https://www.instagram.com/hairstrikeband" target="_blank">https://www.instagram.com/hairstrikeband</a></p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ##### Contact Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="band">Band</a></li>
+                          <li><a href="photos">Photos</a></li>
+                          <li><a href="listen">Listen</a></li>
+                          <li><a href="contact">Contact</a></li>
+                          <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>

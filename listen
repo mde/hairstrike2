@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Hairstrike: Listen</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="lds-ellipsis">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+        <!-- Navbar Area -->
+        <div class="hairstrike-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="oneMusicNav">
+
+                        <!-- Nav brand -->
+                        <a href="/" class="nav-brand">
+                          <span class="hs-logo">hairstrike</span>
+                        </a>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="band">Band</a></li>
+                                    <li><a href="photos">Photos</a></li>
+                                    <li><a href="listen">Listen</a></li>
+                                    <li><a href="contact">Contact</a></li>
+                                    <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                                </ul>
+
+                                <a class="fa fa-facebook-square fa-icon-first" href="https://www.facebook.com/hairstrikerocks"
+                                    target="_blank" ></a>
+                                <a class="fa fa-twitter" href="https://twitter.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-instagram" href="https://www.instagram.com/hairstrikeband"
+                                    target="_blank" ></a>
+                                <a class="fa fa-spotify" href="https://open.spotify.com/artist/5FSdHoWTabXJ3Ax4UPcbhC"
+                                    target="_blank" ></a>
+                                <a class="fa fa-youtube" href="https://www.youtube.com/results?search_query=hairstrike"
+                                    target="_blank" ></a>
+                            </div>
+                            <!-- Nav End -->
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <section class="breadcrumb-area bg-img bg-overlay" style="background-image: url(img/bg-img/hs_bg-01.png);">
+        <div class="bradcumbContent">
+            <p>Crank it up</p>
+            <h2>Listen</h2>
+        </div>
+    </section>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### Bumper Section Start ##### -->
+    <section class="bumper" style="height: 80px;">
+    </section>
+    <!-- ##### Bumper Section End ##### -->
+
+    <!-- ##### Bumper Section End ##### -->
+    <!-- ##### Song Area Start ##### -->
+    <div class="one-music-songs-area mb-70">
+        <div class="container">
+            <div class="row">
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-05.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Sweet Dreams (Air Supply): metal cover by Hairstrike</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_sweet_dreams.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-04.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Maneater (Hall & Oates): metal cover by Hairstrike</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_maneater.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-02.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Rio (Duran Duran): metal cover by Hairstrike</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_rio.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-03.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Flashdance… What A Feeling (Irene Cara): metal cover by Hairstrike</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_flashdance.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-07.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Pour Some Sugar On Me (Def Leppard): cover by Hairstrike (live, June 2018)</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_pour_some_sugar_live.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-06.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Rebel Yell (Billy Idol): cover by Hairstrike (live, December 2021)</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_rebel_yell_live.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-09.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Livin’ On A Prayer (Bon Jovi): cover by Hairstrike (live, June 2018)</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_livin_on_a_prayer_live.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-08.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Your Love (the Outfield): metal cover by Hairstrike (live, December 2016)</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_your_love_live.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-11.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Why Can't This Be Love (Van Halen): cover by Hairstrike (live, June 2018)</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_why_cant_this_be_love_live.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-10.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Hairstrike at the Bay Area Beerfest (live, October 4, 2014), set 1</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_bay_area_beerfest_2014-10-04_set_1.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-10.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Hairstrike at the Bay Area Beerfest (live, October 4, 2014), set 2</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_bay_area_beerfest_2014-10-04_set_2.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Song Area -->
+                <div class="col-12">
+                    <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                        <div class="song-thumbnail">
+                            <img src="img/bg-img/hs_thumb-10.png" loading="lazy" alt="" />
+                        </div>
+                        <div class="song-play-area">
+                            <div class="song-name">
+                                <p>Hairstrike at the Bay Area Beerfest (live, October 4, 2014), set 3</p>
+                            </div>
+                            <audio preload="none" controls>
+                                <source src="audio/hairstrike_bay_area_beerfest_2014-10-04_set_3.mp3">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- ##### Song Area End ##### -->
+
+
+    <!-- ##### Bumper Section Start ##### -->
+    <section class="bumper" style="height: 120px;">
+    </section>
+    <!-- ##### Bumper Section End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="col-12 col-md-6">
+                    <p class="copywrite-text"><a href="#"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+&copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <div class="footer-nav">
+                        <ul>
+                          <li><a href="/">Home</a></li>
+                          <li><a href="band">Band</a></li>
+                          <li><a href="photos">Photos</a></li>
+                          <li><a href="listen">Listen</a></li>
+                          <li><a href="contact">Contact</a></li>
+                          <li><a href="https://www.redbubble.com/people/Hairstrike/explore" target="_blank">Merch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Script ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="js/active.js"></script>
+</body>
+
+</html>
