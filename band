@@ -101,7 +101,7 @@
             <div class="row" style="margin-bottom: 56px;">
                 <div class="col-12 col-md-5 col-lg-4">
                     <div class="band-intro-thumb">
-                        <img src="img/bg-img/hs_jake_band.png" loading="lazy" alt="" />
+                        <img src="img/bg-img/hs_jake_band.jpg" loading="lazy" alt="" />
                     </div>
                 </div>
                 <div class="col-12 col-md-7 col-lg-8">
@@ -128,7 +128,7 @@
             <div class="row" style="margin-bottom: 56px;">
                 <div class="col-12 col-md-5 col-lg-4">
                     <div class="band-intro-thumb">
-                        <img src="img/bg-img/hs_cole_band.png" loading="lazy" alt="" />
+                        <img src="img/bg-img/hs_cole_band.jpg" loading="lazy" alt="" />
                     </div>
                 </div>
                 <div class="col-12 col-md-7 col-lg-8">
@@ -145,7 +145,7 @@
                          He heard his first metal track on local FM radio, and after seeing the leering, sneering faces on MTV's "Headbanger's Ball," he realized it was his destiny to be a metal star as well.
                           </p>
                         <p>
-                         Cole is the strong, silent type — he wears his stoicism on his sleeve like some men wear their feelings. Feelings are not important — f*cking metal is what's important. He may appear to be standing like heavy stone, but can bet your ass that Cole is gathering his 'ki' to bring the bass and vocal attack that flattens the crowd.
+                         Cole is the strong, silent type — he wears his stoicism on his sleeve like some men wear their feelings. Feelings are not important — f*cking metal is what's important. He may be confused about his nationality, but he's always ready to bring the bass and vocal attack that flattens the crowd.
                         </p>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
             <div class="row" style="margin-bottom: 56px;">
                 <div class="col-12 col-md-5 col-lg-4">
                     <div class="band-intro-thumb">
-                        <img src="img/bg-img/hs_kitt_band.png" loading="lazy" alt="" />
+                        <img src="img/bg-img/hs_kitt_band.jpg" loading="lazy" alt="" />
                     </div>
                 </div>
                 <div class="col-12 col-md-7 col-lg-8">
@@ -200,6 +200,33 @@
                         </p>
                         <p>
                            Fun fact, in high school T.T.G. replaced all the ABBA in the local record store with AC/DC, earning him the undying gratitude of all his school mates.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Band Intro Item -->
+            <div class="row" style="margin-bottom: 56px;">
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="band-intro-thumb">
+                        <img src="img/bg-img/hs_max_band.jpg" loading="lazy" alt="" />
+                    </div>
+                </div>
+                <div class="col-12 col-md-7 col-lg-8">
+                    <div>
+                        <!-- Section Heading -->
+                        <div class="section-heading text-left mb-30">
+                            <p>Lead guitars</p>
+                            <h2>Max V</h2>
+                        </div>
+                        <p>
+                          Max V is a cybernetically enhanced guitarist engineered for maximum tonal destruction. Outfitted with servo-driven hands and real-time pitch processors, he delivers razor-sharp riffs and solos with machine-grade precision. His playing fuses minor-mode heaviness with harmonized lead lines and just enough chromatic chaos to keep things unstable.
+                        </p>
+                        <p>
+                          Legend has it that Max was once a teenage shredder who won a backstage guitar duel with Ace Frehley using only a busted amp and a half-working delay pedal. Impressed (and possibly a little freaked out) Ace gifted him a modded Les Paul and told him to “go melt something.” Shortly after, Max vanished into a lightning storm and re-emerged three years later with a neural jack in his neck and an internal FX loop.
+                        </p>
+                        <p>
+                          These days, he doesn’t just solo—he uploads riffs straight into the crowd’s nervous system.
                         </p>
                     </div>
                 </div>

@@ -183,7 +183,7 @@
                 <!-- Single Image -->
                 <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
                     <div class="single-album">
-                        <a href="img/bg-img/hs_band_pose-07.png" class="image--gallery--btn">
+                        <a href="img/bg-img/hs_band_pose-07.jpg" class="image--gallery--btn">
                           <img src="img/bg-img/hs_band_pose-07_thumb.png" loading="lazy" alt="" />
                         </a>
                     </div>
