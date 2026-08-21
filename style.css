@@ -550,6 +550,9 @@ dd {
 .classycloseIcon .cross-wrap span {
   background: #ffffff; }
 
+.classy-navbar-toggler .navbarToggler span {
+  background-color: #ffffff; }
+
 /* :: 5.0 Hero Slides Area */
 .hero-area,
 .hero-slides {
