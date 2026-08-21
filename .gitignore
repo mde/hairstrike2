@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# vim swap files
+.*.sw[a-p]
+
+# Beerfest 2014 sets: 77-123 MB each. GitHub hard-rejects files over 100 MB,
+# so these stay untracked and are uploaded to the server by hand.
+audio/hairstrike_bay_area_beerfest_*.mp3
+
+# stale 2018 sass artifact, nothing references it
+style.css.map
+
+# local backups
+*.bak
