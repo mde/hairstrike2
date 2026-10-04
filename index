@@ -97,7 +97,7 @@
     <section class="hero-area">
         <div style="height: 950px; top: 40%; color:#fff; font-size:84px; position: absolute; z-index:5; background:transparent; text-align:center; margin:auto; width:100%;">
           <div class="hero-slides-content text-center">
-            <h6 style="color:#fff;"6>The SF Bay Area's</h6>
+            <h6 style="color:#fff;">The SF Bay Area's</h6>
             <h2 style="font-size: 56px; color:#fff; letter-spacing:0.3rem; font-weight:700; font-variant: small-caps">80s rock tribute band…</h2>
             <a style="color:#fff; background:transparent; border:1px solid #fff;" href="/band.html" class="btn oneMusic-btn mt-50">The Band <i class="fa fa-angle-double-right"></i></a>
           </div>
