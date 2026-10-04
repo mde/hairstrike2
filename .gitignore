@@ -13,3 +13,7 @@ style.css.map
 
 # local backups
 *.bak
+
+# local dev TLS cert, trusted in the macOS keychain; keep the key off GitHub
+cert.pem
+key.pem
