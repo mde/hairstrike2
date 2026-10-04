@@ -174,7 +174,7 @@
                          Kitt De la Rosa is a rocket ship to rock-'n'-roll love waiting to lift off. Who needs a click-track when you have a rocket-ship ride to the stars?? Kitt first began drumming as he was growing up in a small town south of San Diego, California.
                         </p>
                         <p>
-                         His musical tastes expanded as he grew older, and Kitt explored everything from progressive jazz to German polka, but the bombastic styles of drummers like John Bohnam and Carmine Appice constantly pulled him back to metal, learning heavier and heavier licks every day.
+                         His musical tastes expanded as he grew older, and Kitt explored everything from progressive jazz to German polka, but the bombastic styles of drummers like John Bonham and Carmine Appice constantly pulled him back to metal, learning heavier and heavier licks every day.
                         </p>
                         <p>
                          To this day, no one is completely sure whether the spontaneous liftoff of his family home into outer space was caused by his drumming, but he was playing at the time, and only just barely managed to leap free, clinging to his prized Zildjian 22" Extra-Extra-Heavy ride.
@@ -201,7 +201,7 @@
                            T.T.G.'s transformation into a monster of rock began in his teens, growing up in Sweden. When all the other kids were busy making meatballs and putting together their Ikea furniture, T.T.G. was busy crafting incredibly tasty licks, and obliterating the family furnishings with the sheer volume and intensity of his riffs.
                         </p>
                         <p>
-                           When T.T.G. is on stage, keep a close eye out for when he goes full beast mode. When his transformation is complete, he becomes a rock and roll berserker with the soul of Grendel and the hands of Yngwie J. Malmsteen — a metal shred-demon with a kickass guitar tone made of dragon's blood and molten lava.
+                           Keep an eye on T.T.G. during the show, because at some point he's going to go full beast mode. Once the transformation is complete he's a rock and roll berserker with the soul of Grendel and the hands of Yngwie J. Malmsteen, and a kickass guitar tone made of dragon's blood and molten lava. Do not stand too close.
                         </p>
                         <p>
                            Fun fact, in high school T.T.G. replaced all the ABBA in the local record store with AC/DC, earning him the undying gratitude of all his school mates.
@@ -225,13 +225,13 @@
                             <h2>Max V</h2>
                         </div>
                         <p>
-                          Max V is a cybernetically enhanced guitarist engineered for maximum tonal destruction. Outfitted with servo-driven hands and real-time pitch processors, he delivers razor-sharp riffs and solos with machine-grade precision. His playing fuses minor-mode heaviness with harmonized lead lines and just enough chromatic chaos to keep things unstable.
+                          Max V is a cyborg. Nobody in the band knows how much of him is still original equipment, but the hands are definitely servo-driven, and there's a pitch processor in there somewhere that keeps him from ever hitting a wrong note, even when he tries. He likes minor keys, twin-guitar harmonies, and the occasional chromatic run that sounds like a malfunction but is totally on purpose.
                         </p>
                         <p>
-                          Legend has it that Max was once a teenage shredder who won a backstage guitar duel with Ace Frehley using only a busted amp and a half-working delay pedal. Impressed (and possibly a little freaked out) Ace gifted him a modded Les Paul and told him to “go melt something.” Shortly after, Max vanished into a lightning storm and re-emerged three years later with a neural jack in his neck and an internal FX loop.
+                          As a teenager, Max snuck backstage and challenged Ace Frehley to a guitar duel, armed with a busted amp and a delay pedal that only worked when you kicked it. He won. Ace handed him a modded Les Paul and told him to "go melt something." Not long after, Max walked out into a lightning storm and nobody saw him for three years. When he came back he had a neural jack in his neck and an FX loop where his appendix used to be.
                         </p>
                         <p>
-                          These days, he doesn’t just solo—he uploads riffs straight into the crowd’s nervous system.
+                          These days he skips the amp and plugs straight into the crowd. Earplugs won't help.
                         </p>
                     </div>
                 </div>
@@ -240,6 +240,56 @@
         </div>
     </section>
     <!-- ##### Band Intro Area End ##### -->
+
+    <!-- ##### Former Members Area Start ##### -->
+    <section class="former-members-area section-padding-0-70">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-heading style-2">
+                        <p>From the annals of time</p>
+                        <h2>Former Members</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <!-- Single Former Member -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-album">
+                        <img src="img/bg-img/hs_bones_band.png" loading="lazy" alt="Bones Diablo" />
+                        <div class="album-info">
+                            <h5>Bones Diablo</h5>
+                            <p>(Drums)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Former Member -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-album">
+                        <img src="img/bg-img/hs_donnie_band.png" loading="lazy" alt="Donnie Fame" />
+                        <div class="album-info">
+                            <h5>Donnie Fame</h5>
+                            <p>(Drums)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Former Member -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-album">
+                        <img src="img/bg-img/hs_jc_band.png" loading="lazy" alt="J.C. Sleet" />
+                        <div class="album-info">
+                            <h5>J.C. Sleet</h5>
+                            <p>(Lead guitars, founding member)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ##### Former Members Area End ##### -->
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">

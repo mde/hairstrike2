@@ -885,6 +885,14 @@ dd {
   .single-album:hover, .single-album:focus {
     box-shadow: 0 5px 70px 0 rgba(0, 0, 0, 0.15); }
 
+/* Former member names: match the band member headings' tracking. The
+   padding offsets the trailing letter-space so the name stays centered. */
+.former-members-area .single-album .album-info h5 {
+  letter-spacing: 10px;
+  padding-left: 10px; }
+  .former-members-area .single-album .album-info p {
+    font-size: 14px; }
+
 .single-album-area {
   position: relative;
   z-index: 1;
