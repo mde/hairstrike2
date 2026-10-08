@@ -347,6 +347,42 @@
                     </div>
                 </div>
 
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-08.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-08_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-09.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-09_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-10.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-10_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Single Image -->
+                <div class="col-12 col-sm-4 col-md-3 col-lg-3 single-album-item t g u">
+                    <div class="single-album">
+                        <a href="img/bg-img/hs_band_perf-11.jpg" class="image--gallery--btn">
+                          <img src="img/bg-img/hs_band_perf-11_thumb.jpg" loading="lazy" alt="" />
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
